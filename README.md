@@ -1,6 +1,7 @@
 # C言語 構造体
 
 * [構造体](https://www.cc.kyoto-su.ac.jp/~yamada/programming/struct.html)
+* [第3回：アドレスとポインタ変数　(5/18)](http://www.isc.meiji.ac.jp/~re00079/EX2.2011/20110518.html)
 
 ## コンパイル
 

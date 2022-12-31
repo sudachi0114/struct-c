@@ -20,7 +20,13 @@ int main(void) {
     intPtr_t p;
     p = foo(a);
 
-    printf("*p = %d\n", *p);
+    printf("p = %d, *p = %d\n", p, *p);
+    printf("a = %d, *a = %d, a+3 = %d, *(a+3) = %d\n", a, *a, a+3, *(a+3));
+
+    /* int は 4byte なので a+3 と a を int だと思って比較すると、差は 12
+      <= 12 / 4 = 3 だから、アドレスでいうと 3 離れている
+
+    ポインタは %p で warning なしで (16進数表示で) 出力できる */
 
     return 0;
 }

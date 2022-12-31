@@ -14,3 +14,11 @@ $ gcc main.c -o main && ./main
 ```
 
 * [コンパイルと実行 - GNU Compiler Collection（gcc） - Mac環境](https://webkaru.net/clang/mac-gcc-compile/)
+
+## プロトタイプ宣言
+
+* [関数のプロトタイプ宣言](https://webkaru.net/clang/function-declaration-prototypes/)
+
+# C++ クラス
+
+* [クラス - 一週間で身につくC++言語の基本](https://cpp-lang.sevendays-study.com/day2.html)
